@@ -10,6 +10,7 @@ import { PokemonCardComponent } from './pokemon-card/pokemon-card.component';
   declarations: [
     AppComponent,
     PokemonListComponent,
+    PokemonCardComponent,
     PokemonCardComponent
   ],
   imports: [
